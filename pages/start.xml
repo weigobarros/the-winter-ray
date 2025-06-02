@@ -1,7 +1,7 @@
 <page id="start" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
-    text="Hello World"
+    text="natural snow buildings"
     color="white"
     x="center"
     y="center"
